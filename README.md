@@ -1,4 +1,5 @@
-# 💫 About Me:
+# 💫 Hola, soy JoseLuis ![mano](https://github.com/Josh14sa/Josh14sa/assets/118872677/34a7a015-b489-4fed-be40-ad004ebd11cd)
+
 ¡Hola! Soy un apasionado programador joven de Perú, con 6 meses de experiencia y un entusiasmo desbordante por aprender y crecer en el mundo de la tecnología. <br>Mi mayor motivación es sobresalir en cada proyecto en el que participo, contribuyendo con ideas frescas y soluciones creativas.<br><br>Desde que comencé mi carrera, he estado inmerso en un constante proceso de aprendizaje, buscando nuevas oportunidades para mejorar mis habilidades y enfrentar desafíos cada vez más complejos. <br>Estoy emocionado por la posibilidad de colaborar en proyectos innovadores que me permitan expandir mis conocimientos y aportar al equipo con mi creatividad y dedicación.<br><br>Mi objetivo es convertirme en un desarrollador destacado, capaz de afrontar cualquier desafío y contribuir al éxito de cada proyecto en el que participe. ¡Estoy ansioso por formar parte de tu equipo y trabajar juntos en emocionantes proyectos!
 
 
